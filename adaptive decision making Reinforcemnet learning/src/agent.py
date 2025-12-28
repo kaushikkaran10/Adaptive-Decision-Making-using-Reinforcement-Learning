@@ -11,15 +11,6 @@ class QLearningAgent:
     """
     
     def __init__(self, n_actions=3, learning_rate=0.1, epsilon=0.1, discount_factor=0.9, seed=None):
-        """
-        """
-        """
-
-        """
-       
-        """
-
-        """
         self.n_actions = n_actions
         self.learning_rate = learning_rate
         self.epsilon = epsilon
